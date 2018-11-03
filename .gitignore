@@ -1,0 +1,27 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# Log file
+*.log
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+# Eclipse project files
+.project
+.classpath
+.settings
+
+# Geany project file
+.geany
+
+# Build targets
+/target
+*/target
+
+# JVM crash logs
+hs_err_pid*.log
